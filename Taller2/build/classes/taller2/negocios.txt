@@ -1,0 +1,13 @@
+Mi bizcochito,11111545-9,Panaderia,Coloso 1321,En funcionamiento,Antofagasta,Antofagasta
+La Squina,15899212-9,Club Nocturno,Matta 1231,En funcionamiento,Antofagasta,Antofagasta
+GDG,18299500-0,Empresa de Desarrollo de Software,14 de Febrero 0321,En funcionamiento,Antofagasta,Antofagasta
+Epic Bar,12345213-K,Pub Restobar,Avenida Los Angeles 0333,Clausurado,Antofagasta,Antofagasta
+Kiki,18992322-1,Veterinaria,Avenida Angamos 1421,En funcionamiento,Antofagasta,Antofagasta
+Smash Store,18022000-8,Tienda de Videojuegos,Latorre 1521,En funcionamiento,Antofagasta,Antofagasta
+xHamster,17022332-1,Veterinaria,Baquedano 2919,En funcionamiento,Antofagasta,Antofagasta
+Pony-Boy,13222188-9,Club Nocturno,Matta 1233,Clausurado,Antofagasta,Antofagasta
+Fest and Disc,13222188-9,Discoteque,Avenida Ejercito 1321,En funcionamiento,Antofagasta,Antofagasta
+Pizza Here,9201834-1,Restaurante,Avenida Matta 1344,En funcionamiento,Antofagasta,Antofagasta
+Sushi Here,9201834-1,Retaurante,Avenidad Angamos 0819,En funcionamiento,Antofagasta,Antofagasta
+Donde Carlos,9201834-1,Shoperia,Avenida Argentina,Clausurado,Antofagasta,Antofagasta
+GitSky,17022332-1,Empresa de Desarrollo de Software,Avenida Argentina 6511,En funcionamiento,Antofagasta,Antofagasta

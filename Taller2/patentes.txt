@@ -1,0 +1,19 @@
+
+1,Mi bizcochito,Industrial,Coloso 1321,17922,vigente,30/06/2019
+2,Mi bizcochito,Comercial,Coloso 1321,30200,vigente,30/06/2019
+3,La Squina,Alcoholes,Matta 1231,190000,vigente,05/06/2019
+4,La Squina,Comercial,Matta 1231,190000,vigente,05/06/2019
+5,GDG,Profesional,14 de Febrero 0321,110000,vigente,30/06/2019
+6,Kiki,Profesional,Avenida Angamos 1421,110000,vigente,30/06/2019
+7,Kiki,Comercial,Avenida Angamos 1421,110000,vencida,27/12/2018
+8,Smash Store,Comercial,Latorre 1521,34500,vigente,29/06/2019
+9,xHamster,Profesional,Baquedano 2919,vigente,15/06/2019
+10,xHamster,Comercial,Baquedano 2919,vigente,01/06/2019
+15,Pony-Boy,Alcoholes,Matta 1233,vencida,13/11/2018
+16,Fest and Disc,Alcoholes,Avenida Ejercito 1321,vigente,30/05/2019
+17,Fest and Disc,Comercial,Avenida Ejercito 1321,vigente,30/05/2019
+20,Pizza Here,Comercial,Avenida Matta 1344,vigente,30/05/2019
+21,Pizza Here,Alcoholes,Avenida Matta 1344,vencida,30/05/2018
+23,Sushi Here,Comercial,Avenidad Angamos 0819,vigente,30/05/2019
+24,Sushi Here,Alcoholes,Avenidad Angamos 0819,vigente,30/05/2019
+25,GitSky,Profesional,Avenida Argentina 6511,vigente,28/04/2019

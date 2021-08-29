@@ -1,0 +1,13 @@
+Dourtmont,amarillo,2.1
+Central Park,verde,1.1
+Grove Street,amarillo,2.0
+Downtown,verde,0.5
+Montain Park,rojo,3.4
+Nova University,verde,0.8
+The Crush of South,rojo,4.0
+Farm 1321,rojo,3.7
+Barrio Latino,amarillo,2.5
+Barrio Mexicano,amarillo,2.1
+Barrio Rojo,verde,0.3
+Barrio Industrial I,amarillo,2.8
+Barrio Industrial II,rojo,3.9

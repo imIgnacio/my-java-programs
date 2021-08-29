@@ -1,0 +1,9 @@
+Leopoldo Ramirez,11111545-9,18/05/1979,La quebrada 0541,Antofagasta,Antofagasta
+Rodrigo Soto,12345213-K,29/01/1981,Ojos del Salado 1822,Antofagasta,Antofagasta
+Fabian Rojas,18299500-0,13/05/1993,Avenida Angamos 0882,Antofagasta,Antofagasta
+Luz Alvarez,18992322-1,29/06/1988,Avenida Angamos 0699,Antofagasta,Antofagasta
+Pablo Julio,15899212-9,28/02/1992,Loa 1922,Antofagasta,Antofagasta,Antofagasta
+Manuel Zuleta,18022000-8,01/11/1982,Avenida Iquique 1221,Antofagasta,Antofagasta
+Barbara Hormazabal,17022332-1,23/11/1979,Latorre 1508,Antofagasta,Antofagasta
+Juan Maury,13222188-9,01/05/1991,Baquedano 2421,Antofagasta,Antofagasta
+Julio Diaz,9201834-1,12/01/1990,14 de Febrero 0789,Antofagasta,Antofagasta
